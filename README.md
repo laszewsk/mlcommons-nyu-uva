@@ -12,7 +12,7 @@ Role | Name | Academic background | e-mail
 | Machine Learning |  Varshitha Chennamsetti | MS Major in Computer Science | <vc2209@nyu.edu>
 | Coordinator | Shengyao (Alex) Tang |  BS Major in Applied Mathematics | <st4761@nyu.edu>
 | Research Lead | Laiba Mehnaz|  MS Major in Computer Science
-| Collabortor | Geoffrey C. Fox | Prof. UA, Phd | <gcfexchange@gmail.com>
+| Collabortor | Geoffrey C. Fox | Prof. UA, PhD | <gcfexchange@gmail.com>
 | Collabortor | Gregor von Laszewski | Research Prof., PhD | <laszewski@gmail.com>
 | Supervisor NYU | Sergey Samsonau | | <ss13638@nyu.edu>
 
