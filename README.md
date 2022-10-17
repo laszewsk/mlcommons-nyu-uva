@@ -6,8 +6,9 @@
 TODO: explaine what the different roles are and if they are fluent. e.g. is a coordinator only coordinating or also contributing to the coordination.
 Reason I ask is that Laiba contacted us and seems to do right now the task of the coordinator ...
 
-* Researcher: Yashika Khurana
-* Major: MS in Computer Engineering
+Role | Name | Academic background
+| --- | --- | --- |
+| Researcher | Yashika Khurana | MS Major in Computer Engineering
 
 * Machine Learning: Varshitha Chennamsetti
 * Major: MS in Computer Science
