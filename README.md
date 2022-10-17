@@ -24,7 +24,7 @@ TBD
 
 ## Requirements
 
-* LaTeX paper in overleaf
+* LaTeX paper in overleaf (https://www.overleaf.com/project/634d9954592bab690b6d133d)
 
 ## Design
 
