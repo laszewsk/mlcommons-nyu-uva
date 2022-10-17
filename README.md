@@ -14,7 +14,7 @@ Role | Name | Academic background | e-mail
 | Research Lead | Laiba Mehnaz|  MS Major in Computer Science
 | Collabortor | Geoffrey C. Fox | Prof. UA, PhD | <gcfexchange@gmail.com>
 | Collabortor | Gregor von Laszewski | Research Prof., PhD | <laszewski@gmail.com>
-| Supervisor NYU | Sergey Samsonau | | <ss13638@nyu.edu>
+| Supervisor | Sergey Samsonau | PhD | <ss13638@nyu.edu>
 
 ## Background
 
