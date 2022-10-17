@@ -24,6 +24,8 @@ TBD
 
 ## Requirements
 
+* LaTeX paper in overleaf
+
 ## Design
 
 ## Implementation
