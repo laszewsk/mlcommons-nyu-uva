@@ -6,6 +6,13 @@
 TODO: explaine what the different roles are and if they are fluent. e.g. is a coordinator only coordinating or also contributing to the coordination.
 Reason I ask is that Laiba contacted us and seems to do right now the task of the coordinator ...
 
+Roles:
+
+Coordinator - Team coordination, writing, presenting, communication, leading 
+ML specialist - develop and code ML solution (usually a person with solid knowledge/skills in ML) 
+Researcher - scientific meaning, validity, context, literature review, etc 
+
+
 Role | Name | Academic background | e-mail
 | --- | --- | --- | --- |
 | Researcher | Yashika Khurana | MS Major in Computer Engineering | <yk2773@nyu.edu>
