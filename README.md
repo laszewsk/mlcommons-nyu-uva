@@ -10,9 +10,9 @@ Roles:
 
 Coordinator - Team coordination, writing, presenting, communication, leading, schedule and run meetings
 
-ML specialist - develop and code ML solution (usually a person with solid knowledge/skills in ML) 
+ML specialist - Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
 
-Researcher - scientific meaning, validity, context, literature review, etc 
+Researcher - Responsible for the understanding the project in depth and communicating it to the other team members. Also responsible for providing solutions and ideas for execution by the ML specialist.
 
 
 Role | Name | Academic background | e-mail
