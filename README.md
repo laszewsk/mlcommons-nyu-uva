@@ -9,7 +9,9 @@ Reason I ask is that Laiba contacted us and seems to do right now the task of th
 Roles:
 
 Coordinator - Team coordination, writing, presenting, communication, leading 
+
 ML specialist - develop and code ML solution (usually a person with solid knowledge/skills in ML) 
+
 Researcher - scientific meaning, validity, context, literature review, etc 
 
 
