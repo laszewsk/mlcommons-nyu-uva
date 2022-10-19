@@ -8,17 +8,18 @@ Reason I ask is that Laiba contacted us and seems to do right now the task of th
 
 Roles:
 
-Coordinator - Team coordination, writing, presenting, communication, leading, schedule and run meetings
+1. Coordinator
+  * Team coordination, writing, presenting, communication, leading, schedule and run meetings
 
 ML specialist - Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
 
-Researcher - Responsible for the understanding the project in depth and communicating it to the other team members. Also responsible for providing solutions and ideas for execution by the ML specialist.
+Researcher - Responsible for the understanding the project in depth and communicating it to the other team members. Also, responsible for providing solutions and ideas for execution by the ML specialist.
 
 
 Role | Name | Academic background | e-mail
 | --- | --- | --- | --- |
 | Researcher | Yashika Khurana | MS Major in Computer Engineering | <yk2773@nyu.edu>
-| Machine Learning |  Varshitha Chennamsetti | MS Major in Computer Science | <vc2209@nyu.edu>
+| ML specialist |  Varshitha Chennamsetti | MS Major in Computer Science | <vc2209@nyu.edu>
 | Coordinator | Shengyao (Alex) Tang |  BS Major in Applied Mathematics | <st4761@nyu.edu>
 | Research Lead | Laiba Mehnaz|  MS Major in Computer Science
 | Collabortor | Geoffrey C. Fox | Prof., PhD | <gcfexchange@gmail.com>
