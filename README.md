@@ -14,10 +14,10 @@ Role | Name | Academic background | e-mail
 | Supervisor | Sergey Samsonau | PhD | <ss13638@nyu.edu>
 
 
-- *Coordinator* : Reponsible for handling team logistics, communication with collabotor and leadership team, and planning of the team’s activities.
-- *ML specialist* :Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
-- *Researcher*: Responsible for the understanding the project in depth and communicating it to the other team members. Also, responsible for providing solutions and ideas for execution by the ML specialist.
-- *Research Lead*: Responsible for the overall operation of the team.
+- **Coordinator** : Reponsible for handling team logistics, communication with collabotor and leadership team, and planning of the team’s activities.
+- **ML specialist** :Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
+- **Researcher**: Responsible for the understanding the project in depth and communicating it to the other team members. Also, responsible for providing solutions and ideas for execution by the ML specialist.
+- **Research Lead**: Responsible for the overall operation of the team.
   
 ## Background
 
