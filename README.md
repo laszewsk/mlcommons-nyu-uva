@@ -9,7 +9,7 @@ Reason I ask is that Laiba contacted us and seems to do right now the task of th
 Roles:
 
 1. Coordinator
-  * Team coordination, writing, presenting, communication, leading, schedule and run meetings
+   * Team coordination, writing, presenting, communication, leading, schedule and run meetings
 
 ML specialist - Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
 
