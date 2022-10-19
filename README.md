@@ -8,13 +8,17 @@ Reason I ask is that Laiba contacted us and seems to do right now the task of th
 
 Roles:
 
-1. Coordinator
+1. Coordinator:
    * Team coordination, writing, presenting, communication, leading, schedule and run meetings
 
-ML specialist - Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
+2. ML specialist:
+   * Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
 
-Researcher - Responsible for the understanding the project in depth and communicating it to the other team members. Also, responsible for providing solutions and ideas for execution by the ML specialist.
+3. Researcher: 
+   * Responsible for the understanding the project in depth and communicating it to the other team members. Also, responsible for providing solutions and ideas for execution by the ML specialist.
 
+4. Research Lead:
+   * Responsible for the overall operation of the team.
 
 Role | Name | Academic background | e-mail
 | --- | --- | --- | --- |
