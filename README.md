@@ -19,6 +19,7 @@ Role | Name | Academic background | e-mail
 - **ML specialist**: Responsible for the implementation of the solution such data processing, model development, model evaluation, code management, etc.
 - **Researcher**: Responsible for the understanding the project in depth and communicating it to the other team members. Also, responsible for providing solutions and ideas for execution by the ML specialist.
 - **Research Lead**: Responsible for the overall operation of the team.
+
   
 ## Background
 
@@ -29,6 +30,18 @@ TBD
 ## Requirements
 
 * LaTeX paper in overleaf (https://www.overleaf.com/project/634d9954592bab690b6d133d)
+
+## Timeline
+Tasks | Mainly Responsible | Due Date
+| --- | --- | --- |
+| Run the code on Greene HPC and evaluate Performance; document it | Varshitha Chennamsetti | Nov 2nd 2022
+| Read the paper; get familiar cloud-mask work flow in paper | Yashika Khurana | Nov 2nd 2022
+| Compare performance between different platforms and clusters | Varshitha Chennamsetti | Nov 16th 2022
+| Detailed list of ideas/ directions for tweaking the model | Yashika Khurana | Nov 16th 2022 
+| | | Nov 30th 2022 |
+| | | Nov 30th 2022 |
+| | | Dec 14th 2022 |
+| | | Dec 14th 2022 |
 
 ## Design
 
