@@ -6,7 +6,6 @@
 
 Role | Name | Academic background | e-mail
 | --- | --- | --- | --- |
-| Researcher | Yashika Khurana | MS Major in Computer Engineering | <yk2773@nyu.edu>
 | ML specialist |  Varshitha Chennamsetti | MS Major in Computer Science | <vc2209@nyu.edu>
 | Coordinator | Shengyao (Alex) Tang |  BS Major in Applied Mathematics | <st4761@nyu.edu>
 | Research Lead | Laiba Mehnaz|  MS Major in Computer Science | <lm4428@nyu.edu>
